@@ -64,6 +64,6 @@ Works for D&D, Pathfinder, or whatever system you're running. It doesn't care ab
 
 ## Part of the Toolkit
 
-Saga is one of seven tools I built for people who run imaginary worlds. See the full set on [my profile](https://github.com/DarkCandyLord).
+Saga is one of seven tools I built for people who run imaginary worlds. See the full set on [my profile](https://github.com/CandyFlex).
 
 *Your campaign is worth more than a Google Doc.*
